@@ -1,5 +1,5 @@
-name: 'Release Drafter'
-description: 'Drafts your next release notes as pull requests are merged into master.'
+name: 'Kubmeta Release Drafter'
+description: 'KubmetaDrafts your next release notes as pull requests are merged into master.'
 runs:
   using: 'node16'
   main: 'dist/index.js'
